@@ -1,0 +1,29 @@
+header {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header ul {
+    display: flex;
+    align-items: center;
+    padding-right: 100px;
+}
+
+header ul li {
+    margin-left: 20px;
+    list-style: none;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+header h3 {
+    font-size: 32px;
+    padding-left: 100px;
+}

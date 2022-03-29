@@ -1,0 +1,8 @@
+.login {
+    /* center div */
+    display: flex;
+    flex: 1;
+    height: 50vh;
+    justify-content: center;
+    align-items: center;
+}
